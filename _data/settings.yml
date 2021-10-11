@@ -1,4 +1,4 @@
-title: Typographi
+title: Type Face
 description: :)
 footer_text: Copyright 2021 Emma Pettengell
 header_feature_image: null
@@ -6,7 +6,7 @@ header_text: :)
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 55px
-logo: /uploads/logo.jpg
+logo: ../uploads/green-and-white-deer-stags-american-football-logo.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: true
