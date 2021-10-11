@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call out my name. If you know it.
+title: Debranding is stealing the words from our logos - but do we need them?
 date: 2021-10-11T14:11:18.877Z
 image: ../uploads/ron-mcclenny-hkw16a5yiey-unsplash.jpg
 title_color: "#ffffff"
