@@ -2,6 +2,7 @@
 layout: post
 title: Call out my name. If you know it.
 date: 2021-10-11T14:11:18.877Z
+image: ../uploads/ron-mcclenny-hkw16a5yiey-unsplash.jpg
 title_color: "#ffffff"
 caption: ""
 comments: false
