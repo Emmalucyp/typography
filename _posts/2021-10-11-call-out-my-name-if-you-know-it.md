@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Debranding is stealing the words from our logos - but do we need them?
+title: "Debranding is stealing the words from our logos - but do we need them? "
 date: 2021-10-11T14:11:18.877Z
 image: ../uploads/ron-mcclenny-hkw16a5yiey-unsplash.jpg
 title_color: "#ffffff"
 caption: ""
 comments: false
 ---
-Has modern branding moved past the need for type in logos?
+Has modern branding moved past the need for type in logos? In an attempt to be more personable with evermore jaded consumers, companies are getting rid of the words in their symbols. But does it actually work?
 
 Swoosh. Tick. Check. You know the brand instantly. Nike’s infamous logo, on the side of nearly every other hoodie or pair of shoes you see on the pavement. Even in the doorway to my house I’m met with at least a dozen Swooshes on the shoe rack.
 
