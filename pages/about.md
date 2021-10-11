@@ -10,10 +10,6 @@ tags: null
 description: null
 show: true
 ---
-This page was started to take a look at the way typography is used today in branding. How typeface can change *Dove* from body soap to a chocolate bar.
-
-![](../uploads/652-6525223_dove-logo-png-download-transparent-png.png.jpeg)
-
-![](../uploads/dove-milk-chocolate-logo-brand-png-favpng-yspu7seiub3yt2du0eyugkq6r.jpg)
+This page was started to take a look at the way typography is used today in branding. How fonts can change *Dove* from body soap to a chocolate bar. Whether big companies need to rely on typeface at all anymore.
 
 The site design was based on the fonts and styles used on college and sports sweatshirts.
