@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: " "
+title: " About"
 image: ../uploads/about.png
 subtitle: ""
 permalink: /about/
