@@ -23,4 +23,4 @@ Dove isn't the only brand twin that comes to mind. Apple. The first thing you mi
 
 ![](../uploads/untitled-design-1-.png)
 
-It's like comparing the 1968 Romeo and Juliet with the 1996 Romeo + Juliet: the same words, just different designs. It's as Juliet famously says "a rose by any other name would smell as sweet", but why choose any other name when you can have any other font?
+It's like comparing *Romeo and Juliet* (1968) with *Romeo + Juliet* (1996): the same words, just different designs. It's as Juliet famously says "a rose by any other name would smell as sweet", but why choose any other name when you can have any other font?
