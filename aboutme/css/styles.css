@@ -1,7 +1,120 @@
-body {
+html {background: url(https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80);
+background-size: cover;}
 
+a {
+    position: relative;
+    display: inline-block;
+    font-size: 15pt;
+    font-weight: 800;
+    color:#65ab93;
+    overflow: hidden;
+    background: linear-gradient(to right,#5A8677,#5A8677 50%,#63D8B0 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+    transition: background-position 275ms ease;
+  }
+  a:hover {
+    background-position: 0 100%;
+  }
+*{
+    box-sizing: border-box;
+}
+body {text-align: center;
 }
 
-h1 {
-  
+img {height: 300px;}
+h1 {font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 100px;
+margin-top: 10px;
+position: relative;
+    display: inline-block;
+    color: black;
+    overflow: hidden;
+    background: linear-gradient(to right,#65ab93,#65ab93 50%, #63D8B0 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+    transition: background-position 275ms ease;
+  }
+h1:hover {
+    background-position: 0 100%;
+}
+
+
+p {font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;}
+
+.row1 {justify-content: center;
+display: grid;
+grid-auto-rows: 350px;
+grid-auto-columns: 400px;
+grid-row-gap: 50px;}
+[class*="oof"] {
+    float: left;
+}
+.oofwhoami {
+grid-column: 1;
+grid-row: 1;}
+.oofgif {
+grid-column: 2;
+grid-row: 1;}
+.oofwheredoilive {
+grid-column: 3;
+grid-row: 1;}
+
+h2 {font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 30pt;}
+
+
+
+[class*="fav"] {
+    float: left;
+}
+h3 {font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30pt;}
+h4 {font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30pt;}
+h5 {font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30pt;}
+h6 {font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30pt;}
+.dg {
+    margin-top: -20px;
+}
+h7 {font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30pt;}
+
+.favfilm {
+grid-column: 1;
+grid-row: 2;}
+.favmusic {
+grid-column: 2;
+grid-row:2;}
+.favtvshow {
+grid-column: 3;
+grid-row: 2;}
+
+.borabora {
+    grid-column: 1;
+    grid-row: 3;
+}
+.interests {
+    grid-column: 2;
+    grid-row: 3;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.smile {
+ grid-column: 3;
+ grid-row: 3;
+}
+
+.youngpic {
+    grid-column: 2;
+    grid-row: 4;
 }
