@@ -2,6 +2,7 @@
 layout: post
 title: "What a knock off: the disguise of copycat brands"
 date: 2021-11-18T14:35:32.087Z
+image: ../uploads/hamed-mohtashami-pouya-ai_tf7lnhyo-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
