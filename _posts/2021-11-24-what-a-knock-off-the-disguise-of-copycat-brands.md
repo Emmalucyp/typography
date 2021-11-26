@@ -27,3 +27,5 @@ A bolder move from Aldi recently has been there new frozen fast food range by Sn
 ![](../uploads/nutella.jpg "A tub of Nutella")
 
 Again, Aldi has mimicked the packaging and sans serif font of a well known food brand in order to sell their own product. The fun-to-say Nutoka is an almost exact copy, with the same red text and even similar imagery of the spread on a knife. The glass jar and white plastic are straight from the copier too.
+
+You could consider Aldi brave for their risky typography and branding, but they've been caught out once (RIP Cuthbert), and we can only hope more bargain copycats aren't lifted from the shelves by the law.
