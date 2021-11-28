@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Fashion of Words: Why typography will always be in trend"
+title: "The fashion of words: Why typography will always be in trend"
 date: 2021-11-26T16:08:42.934Z
 image: ../uploads/nick-de-partee-5dlboex99cs-unsplash.jpg
 title_color: "#ffffff"
