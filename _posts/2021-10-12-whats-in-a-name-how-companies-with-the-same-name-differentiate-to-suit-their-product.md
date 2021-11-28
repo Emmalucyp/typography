@@ -7,7 +7,9 @@ image: ../uploads/amador-loureiro-bvynlchwqzs-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-Ask a Brit what Dove is and they'll tell you it's a skincare company; their grandma probably has a soap bar by the sink, mum's got the lotion and being passed around the changing rooms is an aerosol deodorant with a familiar gold dove gleaming on the side. Ask an American and they'll tell you it's melt-in-your-mouth chocolate (basically the American equivalent of a UK Galaxy bar) that is perfect for hiding from your family until you fancy a treat. Same name. Different products. So what makes these two different enough that no confused tourists on either side of the pond are going to mix them up? Typography. The same word, just different designs. 'Brand twins' are often able to effectively coexist because of this.
+What makes two brands with the same name different enough that no confused shopper is going to mix them up? Typography. The same word, just different designs. 'Brand twins' are often able to effectively coexist because of this.
+
+Ask a Brit what Dove is and they'll tell you it's a skincare company; their grandma probably has a soap bar by the sink, mum's got the lotion and being passed around the changing rooms is an aerosol deodorant with a familiar gold dove gleaming on the side. Ask an American and they'll tell you it's melt-in-your-mouth chocolate (basically the American equivalent of a UK Galaxy bar) that is perfect for hiding from your family until you fancy a treat. Same name. Different products. 
 
 ![](../uploads/dove-logo.png)
 
