@@ -30,6 +30,10 @@ Similarly, 'masculine' fonts tend to be broad and large, as Western society has,
 
 Type designer Marie Boulanger does a positive mindset for the future. In both the fashion industry and cosmetic sector, Boulanger writes in her book *XX, XY: Sex, Letters and Stereotypes* that she believes there’s a “subtle merging of codes” beginning in typefaces. She uses two gender neutral products and analyses their use of typography. Non Gender Specific applies a font with no gender stereotypes attached to it, and rids the products of "any typographic experimentation or fun". La Loba uses a typeface that is stereotypically masculine despite being aimed at everyone; “I thought that was way more interesting.” 
 
+![Non Gender Specific Everything Cream](../uploads/ngs.jpg)
+
+![La Loba Perfume Oil](../uploads/la-loba.jpg)
+
 Overall, she hopes that people will alter their thoughts on what they consider to be feminine or masculine type. She says “It’s harmful not only because it uses stereotypes that nobody wants to hear about anymore but if we’re thinking about design and problem solving, it actively harms the resolution of those problems.
 
 “If you want a typeface that is rounder and your internal bias is telling you that feminine means rounder, then I think it’s way more interesting to stop yourself and say, ‘What I really mean is rounder’,” Boulanger adds. “The world needs to hear ’rounder’ because that will help you define your design needs.”
