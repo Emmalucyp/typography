@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StereoTypes: the gender of typography in branding"
+title: "Stereotypes: the gender of typography in branding"
 date: 2021-11-30T12:33:16.878Z
 image: ../uploads/ulysse-pointcheval-j6llsaehuo-unsplash.jpg
 title_color: "#ffffff"
